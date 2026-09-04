@@ -9,22 +9,14 @@ A real-time Personal Protective Equipment (**PPE**) detection system powered by 
 
 ---
 
-## 🎥 Video Demo & Screenshots
+## 🎥 Video Demo
 
 ### 🎬 Demo Video
-> *Click the image below or the link to watch the full demo video.*
+You can check out the test demo video stored directly in the repository:
 
-[![PPE Detection Demo Video](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
+https://github.com/user-attachments/assets/5377f722-e3d8-4a11-b016-52c71f98bc19
 
-*📌 **Note:** Replace `YOUR_YOUTUBE_VIDEO_ID` with your actual YouTube video ID or link to a GIF/MP4 file in your repository.*
-
----
-
-### 📸 Demo Images
-
-| PPE Compliant Detection | 
-| :---: |
-| ![PPE Compliant Demo](https://raw.githubusercontent.com/sonlechiht/PPE-Detection/main/assets/demo_compliant.jpg) | 
+> 📹 **Direct File Link:** [`data/ppe-test.mp4`](https://github.com/sonlechiht/PPE-Detection/blob/main/data/ppe-test.mp4)
 
 ---
 
