@@ -16,7 +16,7 @@ You can check out the test demo video stored directly in the repository:
 
 https://github.com/user-attachments/assets/5377f722-e3d8-4a11-b016-52c71f98bc19
 
-> 📹 **Direct File Link:** [`data/ppe-test.mp4`](https://github.com/sonlechiht/PPE-Detection/blob/main/data/ppe-test.mp4)
+> 📹 **Direct File Link:** [`data/ppe-test.gif`](https://github.com/sonlechiht/PPE-Detection/blob/main/data/ppe-test.gif)
 
 ---
 
